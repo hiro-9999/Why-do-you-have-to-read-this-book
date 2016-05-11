@@ -22,6 +22,8 @@
 
 [程序员必读的六本书](http://droidyue.com/blog/2015/07/04/six-books-every-programer-must-read/)
 
+[合格程序员应该读过的书](http://www.ezlippi.com//blog/2014/07/qualified-programmer-should-read-what-books.html)
+
 [产品类书单](https://www.zhihu.com/question/19568240)
 
 ## 专项类书单
