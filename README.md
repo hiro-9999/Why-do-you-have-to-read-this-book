@@ -28,7 +28,9 @@
 
 ## 专项类书单
 
-[Lisp书单](http://gty.org.in/2014/05/09/learn-lisp-books.html)
+[Lisp语言书单](http://gty.org.in/2014/05/09/learn-lisp-books.html)
 
 [数据挖掘技术书单](https://www.zhihu.com/question/20757000)
+
+[深度学习书单](https://github.com/lucky521/deep-learning)
 
